@@ -6,7 +6,6 @@ React Color Picker with 3 Compontents.
 npm i 
 
 #to start the app
-cd myapp
 npm start
 
 ```
